@@ -1,0 +1,14 @@
+/*
+!/.gitignore
+!/README.md
+!/03_scripts/
+!/videos/
+__pycache__/
+*.pyc
+/03_scripts/align.py
+/03_scripts/fit_words.py
+/03_scripts/word_table.py
+/03_scripts/font_sheet.py
+/03_scripts/listen_pack.py
+/03_scripts/make_storyboard.py
+/03_scripts/make_stills.py
